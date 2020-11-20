@@ -5,3 +5,7 @@
   https://github.com/ergunsahe/RN_map_api_modal_icon/blob/main/img/Screenshot_locationModalApi_2.jpg
   https://github.com/ergunsahe/RN_map_api_modal_icon/blob/main/img/Screenshot_locationModalApi_3.jpg
   https://github.com/ergunsahe/RN_map_api_modal_icon/blob/main/img/Screenshot_locationModalApi_4.jpg
+  
+  
+  ### Appearance
+  ![SEARCH RESTAURANT ON MAP Demo](img/map.gif)
